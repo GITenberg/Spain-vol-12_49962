@@ -1,9 +1,13 @@
 _repo: Spain-vol-12_49962
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Varnall, Stanley Rhoads
     gutenberg_agent_id: '45631'
     url: http://www.gutenberg.org/2009/agents/45631
+covers:
+- cover_type: archival
+  image_path: 49962-h/images/cover.jpg
 creator:
   author:
     agent_name: De Amicis, Edmondo
@@ -17,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7650
     wikipedia: http://it.wikipedia.org/wiki/Edmondo_De_Amicis
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49962#Spain-vol-12
 gutenberg_issued: '2015-09-14'
 gutenberg_type: Text
 identifiers:
